@@ -1,0 +1,12 @@
+C:\Users\raghu\OneDrive\Desktop\project\querbridge\admin-service\src\main\java\com\cdacQuerybridge\admin_service\AdminServiceApplication.java
+C:\Users\raghu\OneDrive\Desktop\project\querbridge\admin-service\src\main\java\com\cdacQuerybridge\admin_service\controller\AdminController.java
+C:\Users\raghu\OneDrive\Desktop\project\querbridge\admin-service\src\main\java\com\cdacQuerybridge\admin_service\dto\AnswerDto.java
+C:\Users\raghu\OneDrive\Desktop\project\querbridge\admin-service\src\main\java\com\cdacQuerybridge\admin_service\dto\QueryDto.java
+C:\Users\raghu\OneDrive\Desktop\project\querbridge\admin-service\src\main\java\com\cdacQuerybridge\admin_service\dto\SupportDto.java
+C:\Users\raghu\OneDrive\Desktop\project\querbridge\admin-service\src\main\java\com\cdacQuerybridge\admin_service\dto\UserDto.java
+C:\Users\raghu\OneDrive\Desktop\project\querbridge\admin-service\src\main\java\com\cdacQuerybridge\admin_service\feign\AnswerClient.java
+C:\Users\raghu\OneDrive\Desktop\project\querbridge\admin-service\src\main\java\com\cdacQuerybridge\admin_service\feign\AuthClient.java
+C:\Users\raghu\OneDrive\Desktop\project\querbridge\admin-service\src\main\java\com\cdacQuerybridge\admin_service\feign\QueryClient.java
+C:\Users\raghu\OneDrive\Desktop\project\querbridge\admin-service\src\main\java\com\cdacQuerybridge\admin_service\feign\SupportClient.java
+C:\Users\raghu\OneDrive\Desktop\project\querbridge\admin-service\src\main\java\com\cdacQuerybridge\admin_service\service\AdminService.java
+C:\Users\raghu\OneDrive\Desktop\project\querbridge\admin-service\src\main\java\com\cdacQuerybridge\admin_service\util\JwtUtil.java
